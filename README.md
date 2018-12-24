@@ -1,7 +1,7 @@
 ﻿# vue-music
 
 > Vue.js 打造高级实战——音乐 App
->> 项目描述：基于 Vue+ vuex + vue-router + axios +better-scroll + Scss + ES6 等开发一款移动端音乐 WebApp，UI 界面参考了安卓版的qq音乐、flex 布局适配常见移动端。其功能有播放器内核、推荐页面、热榜页面、歌手页面、歌单详情、歌手详情、排行榜详情、搜索页面、播放列表、用户中心 等等。
+>> 项目描述：基于 Vue+ vuex + vue-router + axios +better-scroll + Scss + ES6 等开发一款移动端音乐 WebApp，UI 界面参考了安卓版的qq音乐、flex 布局适配常见移动端。借助网易云音乐的接口实现数据交互。其功能有播放器内核、推荐页面、热榜页面、歌手页面、歌单详情、歌手详情、排行榜详情、搜索页面、播放列表、用户中心 等等。
 
 ## 项目树
 ```
