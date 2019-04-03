@@ -180,7 +180,7 @@
  ![image](https://github.com/plum-blossom/webApp-music-vue/blob/master/static/music5.png)
  5. apk展示图  
  ![image](https://github.com/plum-blossom/webApp-music-vue/blob/master/static/music6.png)
- 6. apk下载地址
+ 6. apk下载地址		
  [下载地址](https://service.dcloud.net.cn/build/download/acbb4f40-55dd-11e9-b5d7-d1166c3b9c24) （注意该地址为临时下载地址，只能下载5次）
 
 ### 安装与运行
