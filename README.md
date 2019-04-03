@@ -1,4 +1,4 @@
-﻿# vue-music
+# vue-music
 
 > Vue.js 打造高级实战——音乐 App
 >> 项目描述：基于 Vue+ vuex + vue-router + axios +better-scroll + Scss + ES6 等开发一款移动端音乐 WebApp，UI 界面参考了安卓版的qq音乐、flex 布局适配常见移动端。借助网易云音乐的接口实现数据交互。其功能有播放器内核、推荐页面、热榜页面、歌手页面、歌单详情、歌手详情、排行榜详情、搜索页面、播放列表、用户中心 等等。
@@ -166,6 +166,22 @@
 ![image](https://github.com/plum-blossom/webApp-music-vue/blob/master/static/9.png)
 
 
+
+### 打包为APP
+#### 步骤
+ 1. npm run build 项目打包，打包后有个dist目录  
+ 2. HBuilder 新建 - 项目 - 选择 5+APP - 创建  
+ ![image](https://github.com/plum-blossom/webApp-music-vue/blob/master/static/music1.png)
+ 3. 将dist目录下的东西替换到新建的项目下  
+ ![image](https://github.com/plum-blossom/webApp-music-vue/blob/master/static/music2.png)
+ 4. 配置 manifest.json  
+ ![image](https://github.com/plum-blossom/webApp-music-vue/blob/master/static/music3.png)
+ ![image](https://github.com/plum-blossom/webApp-music-vue/blob/master/static/music4.png)
+ ![image](https://github.com/plum-blossom/webApp-music-vue/blob/master/static/music5.png)
+ 5. apk展示图  
+ ![image](https://github.com/plum-blossom/webApp-music-vue/blob/master/static/music6.png)
+ 6. apk下载地址
+ [下载地址](https://service.dcloud.net.cn/build/download/acbb4f40-55dd-11e9-b5d7-d1166c3b9c24) （注意该地址为临时下载地址，只能下载5次）
 
 ### 安装与运行
 
